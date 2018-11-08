@@ -1,4 +1,4 @@
-# Reading SBUS
+# Reading PWM
 In this tutorial we'll read PWM commands with our microcontroller. If you haven't already, you may consider going through the [PWM Introduction tutorial](https://github.com/bolderflight/PWM-Intro), which explains what PWM is and provides practical experience through commanding a servo using PWM.
 
 For the initial part of this tutorial, we will loop our PWM transmitter pin back to our PWM receiver pin. This will allow us to: create a PWM signal and then receive it to make sure that it's the same that was sent. The second part of this tutorial will involve reading PWM signals from an RC receiver paired with a transmitter.
