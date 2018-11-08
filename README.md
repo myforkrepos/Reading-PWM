@@ -345,5 +345,9 @@ Armed with the knowledge and experience that you gained with this tutorial, see 
 1. Add some servos and try using the [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) and [Teensy PWM Backpack](http://bolderflight.com/products/teensy/pwm/) as a mixer. Can you make a single stick control two servos in the same direction? In opposite directions?
 2. Try applying some stick shaping. Can you make the servos more sensitive to stick movements? Less sensitive? Try writing software to apply exponential, where the stick is less sensitive near the center and progressively more sensitive toward the extremes. Can you write a function so the amount of exponential can be easily changed?
 
-# Next Tutorial
-1. [SBUS to PWM Converter](https://github.com/bolderflight/SBUS-to-PWM): Use your knowledge of PWM and SBUS to create your own SBUS to PWM converter!
+# Tutorials in the Series
+1. [PWM Introduction](https://github.com/bolderflight/PWM-Intro): Learn about the de facto standard for controlling servos, PWM!
+2. [Reading PWM](https://github.com/bolderflight/Reading-PWM): Gain experience measuring pulse widths!
+3. [SBUS Introduction](https://github.com/bolderflight/SBUS-Intro): Learn about one of the newest, coolest methods of commanding servos, SBUS!
+4. [Reading SBUS](https://github.com/bolderflight/Reading-SBUS): Gain experience reading SBUS packets!
+5. [SBUS to PWM Converter](https://github.com/bolderflight/SBUS-to-PWM): Use your knowledge of PWM and SBUS to create your own SBUS to PWM converter!
